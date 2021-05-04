@@ -1,11 +1,11 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  onBrokenLinks:'ignore',
+  
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
