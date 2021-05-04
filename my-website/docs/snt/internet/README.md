@@ -39,7 +39,7 @@ Leur nombre augmente chaque année pour faire face à l'augmentation considérab
 
 Données statistiques:
 
-<a href="https://fr.statista.com/infographie/15784/possession-de-cables-sous-marins-par-les-gafam/" title="Infographie: Les GAFAM et la bataille des câbles sous-marins | Statista"><img src="https://infographic.statista.com/normal/chartoftheday_15784_possession_de_cables_sous_marins_par_les_gafam_n.jpg" alt="Infographie: Les GAFAM et la bataille des câbles sous-marins | Statista" width="100%" height="auto" style="width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/></a> Vous trouverez plus d'infographie sur <a href="https://fr.statista.com/graphique-du-jour/">Statista</a>
+
 
 :::tip Vidéo
 Vidéo qui date de 2017, mais est toujours dans l'ensemble d'actualité: [Câbles sous-marins, la guerre invisible](https://www.youtube.com/watch?v=Cb7ibgRivwU)
@@ -52,9 +52,7 @@ ni même les morsures de requins, mais d'abord et de loin les ancres de bateaux.
 
 ## Distribution du trafic Internet mondial en 2019
 
-<a href="https://fr.statista.com/infographie/15717/repartition-trafic-internet-descendant-mondial-par-application/" title="Infographie: Les principaux générateurs de trafic internet dans le monde | Statista"><img src="https://infographic.statista.com/normal/chartoftheday_15717_repartition_trafic_internet_descendant_mondial_par_application_n.jpg" alt="Infographie: Les principaux générateurs de trafic internet dans le monde | Statista" width="100%" height="auto" style="width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/></a> Vous trouverez plus d'infographie sur <a href="https://fr.statista.com/graphique-du-jour/">Statista</a>
 
-<a href="https://fr.statista.com/infographie/17351/applications-generant-la-plus-grande-part-du-trafic-internet-mobile/" title="Infographie: YouTube représente 37 % du trafic Internet mobile | Statista"><img src="https://infographic.statista.com/normal/chartoftheday_17351_applications_generant_la_plus_grande_part_du_trafic_internet_mobile_n.jpg" alt="Infographie: YouTube représente 37 % du trafic Internet mobile | Statista" width="100%" height="auto" style="width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/></a> Vous trouverez plus d'infographie sur <a href="https://fr.statista.com/graphique-du-jour/">Statista</a>
 
 ## Le protocole TCP/IP
 
