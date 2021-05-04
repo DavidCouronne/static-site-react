@@ -1,0 +1,95 @@
+---
+title: Environnement de travail sur Mac
+author: David Couronné
+tags: [mac, tutoriel, latex, python]
+---
+
+Dans cet article, nous allons découvrir comment installer et mettre à jour simplement LaTeX, Python et compagnie sur un Mac.
+
+<!--truncate-->
+
+## Installer HomeBrew sur Mac
+
+Les développeurs utilisent l’utilitaire Homebrew pour installer divers logiciels Unix.
+
+Si vous n’avez pas déjà installé [xcode command line tools](https://developer.apple.com/xcode/resources/), Homebrew l’installera.
+
+Conseil : Si vous n’avez pas utilisé de mot de passe pour vous connecter à votre Mac (c’est-à-dire si votre mot de passe est vide), vous ne pouvez pas installer Homebrew.
+
+### Vérifiez si Homebrew est installé
+
+```bash
+brew
+```
+
+Homebrew n'est pas installé si vous voyez:
+
+```bash
+zsh: command not found: brew
+```
+
+### Installer homebrew
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+Vous verrez une liste de fichiers et de dossiers que Homebrew installera.
+
+Si vous n’avez pas déjà installé d’outils XCode CommandLine, vous verrez un message: « les outils de ligne de commande XCode seront installés ».
+
+Appuyez sur retour pour continuer lorsque vous serez invité par le script d’installation Homebrew.
+
+Il faut de cinq à dix minutes pour télécharger et installer les outils de ligne de commande.
+
+### Mises à jour
+
+Mettre à jour homebrew:
+
+```bash
+brew update
+```
+
+Mettre à jour les packages:
+
+```bash
+brew upgrade
+```
+
+## Installer MacTex
+
+```bash
+brew install mactex
+```
+
+L'installation peut prendre du temps.
+
+Pour mettre à jour MacTex:
+
+```bash
+sudo tlmgr update --self
+```
+
+Puis mettre à jour les packages:
+
+```bash
+sudo tlmgr update --all
+```
+
+## Installer Visual Studio Code
+
+```bash
+brew install visual-studio-code
+```
+
+## Installer python
+
+```bash
+brew install python@3.9
+```
+
+## Installer Github Desktop
+
+```bash
+brew install github
+```
